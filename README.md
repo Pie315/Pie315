@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Pie315!
-- 👀 I’m interested in reading, nature, and learing how things work.
-- 🌱 I’m currently learning Mechanical engineering and computer science in college.
-- 💞️ I’m looking to collaborate on nothing right now.
-- 📫 How to reach me, just leave me alone <3
+<h1 align="center"> 👋 Hi, I’m @Pie315! <h1>
+  
+  
+### 🌱 I’m interested in reading, nature, and learing how things work.
+### 👀 I’m currently learning Mechanical engineering and computer science in college.
+### 💞️ I’m looking to possibily colaborate on a project, or have an internship. 
 
 <!---
 Pie315/Pie315 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
